@@ -1,0 +1,25 @@
+*{
+  margin: 10;
+  padding: 10;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+.coolButton{
+  color: #fff !important;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding: 20px;
+border-radius: 5px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+}
